@@ -1,0 +1,7 @@
+Kalman Filter Implementation :
+https://github.com/TKJElectronics/KalmanFilter/tree/master/examples/MPU6050
+
+MPU DLPF :
+https://github.com/metbosch/Arduino-Quadcopter/blob/master/libraries/MPU6050/MPU6050.cpp
+
+https://github.com/kriswiner/MPU6050/blob/master/MPU6050BasicExample.ino
