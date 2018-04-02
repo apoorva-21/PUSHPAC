@@ -1,8 +1,18 @@
+MavProxy :
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiv0MaHuJvaAhVFv48KHSM_AYcQFggoMAA&url=http%3A%2F%2Fardupilot.org%2Fdev%2Fdocs%2Fraspberry-pi-via-mavlink.html&usg=AOvVaw3MFowVmgO235m3y4Lvkb5B
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj56cCRuJvaAhXEPo8KHc3nD3kQFggoMAA&url=http%3A%2F%2Fardupilot.org%2Fdev%2Fdocs%2Fapsync-intro.html&usg=AOvVaw2WbylueRdFyTJUjrzORKWB
+
 LiDAR :
 http://www.instructables.com/id/Benewake-LiDAR-TFmini-Complete-Guide/
 
-GPS Module info:
+GPS Module info :
+https://learn.sparkfun.com/tutorials/gps-basics/reading-gps-data
 https://www.waveshare.com/w/upload/8/8c/UART-GPS-NEO-7M-C-UserManual.pdf
+https://www8.garmin.com/aboutGPS/waas.html
+https://www.raspberrypi.org/forums/viewtopic.php?t=127480
 
 NMEA Parsing:
 http://www.gpsinformation.org/dale/nmea.htm
+
+OpenCV Installation :
+https://www.pyimagesearch.com/2015/07/27/installing-opencv-3-0-for-both-python-2-7-and-python-3-on-your-raspberry-pi-2/
