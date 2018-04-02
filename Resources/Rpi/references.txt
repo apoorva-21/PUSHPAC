@@ -1,0 +1,8 @@
+LiDAR :
+http://www.instructables.com/id/Benewake-LiDAR-TFmini-Complete-Guide/
+
+GPS Module info:
+https://www.waveshare.com/w/upload/8/8c/UART-GPS-NEO-7M-C-UserManual.pdf
+
+NMEA Parsing:
+http://www.gpsinformation.org/dale/nmea.htm
