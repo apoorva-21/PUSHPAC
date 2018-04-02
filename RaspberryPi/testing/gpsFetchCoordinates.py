@@ -1,5 +1,5 @@
 from pynmea import nmea
-import serial, time, sys, threading#, dateutil, shutil
+import serial, time, sys, threading
 
 BAUD = 9600
 GPS_PORT_NUM = '/dev/ttyUSB0'
