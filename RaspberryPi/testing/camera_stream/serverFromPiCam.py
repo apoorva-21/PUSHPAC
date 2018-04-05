@@ -19,7 +19,7 @@ print 'Socket now listening'
 conn,addr=s.accept()
 
 data = ""
-payload_size = struct.calcsize("i") 
+payload_size = struct.calcsize("i")  #int has struct size of 4 bytes. unsigned long here has a size of 8 bytes, so fails reading from RPi DGs properly!
 while True:
     while len(data) < payload_size:
         data += conn.recv(4096)
