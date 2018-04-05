@@ -28,6 +28,6 @@ for frame in camera.capture_continuous(rawCapture, format = 'bgr', use_video_por
 #	k = cv2.waitKey(1) & 0xFF
 #	if k == ord('q'):
 #		break
-	clientsocket.sendall(struct.pack("L", len(data))+data)
+	clientsocket.sendall(struct.pack("L", len(data))+data) #unsigned long for raspberrypi's architecture is of 4 bytes
 	print 'Sent!'
 	rawCapture.truncate(0)
